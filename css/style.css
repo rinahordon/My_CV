@@ -1,0 +1,35 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fdfafb;
+}
+.main{display: flex;
+flex-direction: row-reverse;
+width: 800px;
+background-color: #fff;
+margin: 40px auto ;}
+.aboutme{padding-bottom: 15px;
+padding-left: 20px;
+padding-right: 15px;}
+.myprojects{padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 15px;}
+.work{padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 15px;}
+.Education{padding-bottom: 15px;padding-left: 20px; padding-right: 15px;}
+.sidebar{
+background-color: #dfddde;
+width: 370px;
+padding-top: 5px;
+padding-left: 20px;
+padding-right: 15px;
+}
+.sidebartitle{
+ font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 10px;
+}
+
+a{color: rgb(49, 49, 49);}
